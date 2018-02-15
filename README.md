@@ -91,14 +91,14 @@ git clone https://github.com/junegunn/fzf.vim
 	mouse behavior
 	set -g mouse on
 
-14. TODO tmux vim navigation
+14. tmux vim navigation
     https://github.com/christoomey/vim-tmux-navigator
 
 	
 list of dotfiles changed:
 .vimrc
 .inputrc
-.bash_aliasclear
+.bash_alias
 
 15. default vim as editor for things like postgresSQL /e  
     sudo update-alternatives --config editor
