@@ -101,3 +101,9 @@ git clone https://github.com/christoomey/vim-tmux-navigator
 cd ~/.vim/bundle && \
 git clone https://github.com/jgdavey/tslime.vim
 ```
+
+### auto-pairs for auto completing parenthesis and brackets
+```sh
+cd ~/.vim/bundle && \
+git clone https://github.com/jiangmiao/auto-pairs
+```
